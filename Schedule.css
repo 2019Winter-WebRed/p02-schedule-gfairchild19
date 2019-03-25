@@ -1,0 +1,27 @@
+/*
+* Grace Fairchild
+* 3/25/2019
+* Schedule Project
+*/
+
+/* The universal selector */
+
+* {
+    
+}
+
+/* Put body attributes here */ 
+
+body {
+    
+}
+
+table, td, th { border: 2px solid darkblue; }  /* Changing size of the border and color */
+
+table { border-collapse: collapse; }
+
+thead { background-color: lightgreen; }  /* Changing background color of just the head section */ 
+
+tbody { background-color: lightgoldenrodyellow; } /* Changing background color of just the body section */
+
+tfoot { background-color: lightblue; } /* Changing background color of just the foot section */
